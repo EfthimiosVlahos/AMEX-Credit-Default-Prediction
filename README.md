@@ -15,3 +15,4 @@ In this project, I present the results of the American Express - Default Predict
 In conclusion, the machine learning models that were developed and evaluated performed exceptionally well in predicting whether a customer will default. The AUC/ROC scores provide reliable indication of the overall performance of the models. Overall, the competition has demonstrated the potential of machine learning in predicting default, which can have significant implications for credit risk management in the banking and financial sector.
 
 <img width="758" alt="Screenshot 2023-05-03 at 11 15 52 AM" src="https://user-images.githubusercontent.com/56899588/235960935-6c3db8c9-c8dd-4682-a7f6-3be3fc3a6ac1.png">
+<img width="866" alt="Screenshot 2023-05-03 at 11 18 49 AM" src="https://user-images.githubusercontent.com/56899588/235961239-6eb1467c-b234-42df-96c3-23493fc978a0.png">
