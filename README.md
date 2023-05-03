@@ -10,8 +10,8 @@ In this project, I present the results of the American Express - Default Predict
 - Exploratory Data Analysis - `Analyzed the data and summarized the main characteristics.`
 - Data Visualization - `Used boxplot, bar plot, scatter plot and violin plot to visualize the data and it's characteristics.`
 - Machine Learning Algorithms - ` Logistic Regression, Random Forest, Naive Bayes, KNN, and Gradient Boosting`
-- Evaluation Metrics Used -  accuracy, precision, recall, F-1 score, validation scores, and AUC/ROC
+- Evaluation Metrics Used -  accuracy,precision, recall, F-1 score, validation scores, and AUC/ROC
 ## Conclusions
 In conclusion, the machine learning models that were developed and evaluated performed exceptionally well in predicting whether a customer will default. The AUC/ROC scores provide reliable indication of the overall performance of the models. Overall, the competition has demonstrated the potential of machine learning in predicting default, which can have significant implications for credit risk management in the banking and financial sector.
 
-![alt text](/Users/Vlahonator/Desktop/Screenshot 2023-05-03 at 11.15.52 AM.png)
+<img width="758" alt="Screenshot 2023-05-03 at 11 15 52 AM" src="https://user-images.githubusercontent.com/56899588/235960935-6c3db8c9-c8dd-4682-a7f6-3be3fc3a6ac1.png">
