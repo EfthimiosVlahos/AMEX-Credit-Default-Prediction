@@ -1,4 +1,4 @@
-# AMEX: Credit Default Preduiction
+# AMEX: Credit Default Preduiction Kaggle Competition
 
 ## Project Overview
 The convenience of credit cards has become an indispensable aspect of modern life, facilitating daily purchases without the need to carry large amounts of cash. However, as credit card issuers extend credit to customers, the challenge of predicting the likelihood of payment default arises. This is a complex problem that has been addressed by many existing solutions, with opportunities for further improvements.
@@ -6,11 +6,10 @@ In this project, I present the results of the American Express - Default Predict
 ## Objectives
 * In this competition, I built models to predict credit default. Specifically, I leveraged an industrial scale data set to build a machine learning model that challenges the current model in production. Training, validation, and testing datasets include time-series behavioral data and anonymized customer profile information.
 ## Methodology
-- Data Wrangling - `Dropped misssing or null salaries values in the dataset, replacing the Years of Experience to the mean and analyzed/removed outliers.`
+- Data Wrangling - To make the code more clear and organized, I created a pipeline that streamlined the entire process from data pre-processing to model evaluation. The pipeline consisted of several stages, including data cleaning, feature engineering and reduction, model selection, and hyperparameter tuning
 - Exploratory Data Analysis - `Analyzed the data and summarized the main characteristics.`
 - Data Visualization - `Used boxplot, bar plot, scatter plot and violin plot to visualize the data and it's characteristics.`
-- Machine Learning Algorithms - ` The models trained were: Lasso, ElasticNet, Decision Tree Regressor, KNeighbors Regressor, Random Forest Regressor and Gradient Boosting Regressor.`
-- Evaluation Metrics Used - `Mean Absolute Error (MAE) and R-squared`
-
+- Machine Learning Algorithms - ` Logistic Regression, Random Forest, Naive Bayes, KNN, and Gradient Boosting`
+- Evaluation Metrics Used -  accuracy, precision, recall, F-1 score, validation scores, and AUC/ROC
 ## Conclusions
-Gradient Boosting Regressor Model resulted in a better performace applying prepocessing steps (Standard Scale, One Hot Encoding and Ordinal Coding) for specific features. The Model Evaluation resulted: **Mean Absolute Error of 13,612.26 and R-squared of 75.8%.**
+In conclusion, the machine learning models that were developed and evaluated performed exceptionally well in predicting whether a customer will default. The AUC/ROC scores provide reliable indication of the overall performance of the models. Overall, the competition has demonstrated the potential of machine learning in predicting default, which can have significant implications for credit risk management in the banking and financial sector.
