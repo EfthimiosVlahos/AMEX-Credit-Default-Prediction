@@ -13,3 +13,5 @@ In this project, I present the results of the American Express - Default Predict
 - Evaluation Metrics Used -  accuracy, precision, recall, F-1 score, validation scores, and AUC/ROC
 ## Conclusions
 In conclusion, the machine learning models that were developed and evaluated performed exceptionally well in predicting whether a customer will default. The AUC/ROC scores provide reliable indication of the overall performance of the models. Overall, the competition has demonstrated the potential of machine learning in predicting default, which can have significant implications for credit risk management in the banking and financial sector.
+
+![alt text](/Users/Vlahonator/Desktop/Screenshot 2023-05-03 at 11.15.52 AM.png)
